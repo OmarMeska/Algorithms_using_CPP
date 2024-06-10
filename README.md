@@ -15,7 +15,9 @@ intensive-algorithms-library/
 │   ├── count sort
 │   ├── selection sort
 │   └──  insertion sort
-│
+|
+│──  Recursion/
+|
 ├── searching/
 │   ├── binary_search
 │   └── linear_search
